@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='DocuSEAR',
-    version='0.0.4',
+    version='0.0.5',
     packages=find_packages(),
     install_requires=[],
     include_package_data=True,
